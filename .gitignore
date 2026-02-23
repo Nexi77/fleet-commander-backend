@@ -1,0 +1,9 @@
+/bin/
+/fleetcommander-backend
+*.exe
+
+.env
+.env.*
+
+.DS_Store
+/vendor/
